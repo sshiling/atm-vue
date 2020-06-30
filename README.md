@@ -1,24 +1,19 @@
 # atm-vue
 
-## Project setup
+### Download archive
+
+### Open your terminal and go to the project directory
+
+### Install modules (type npm install in your terminal)
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project in development mode
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Go to your localhost:8080 (or just copy link from your terminal)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
